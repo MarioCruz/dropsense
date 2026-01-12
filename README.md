@@ -2,6 +2,8 @@
 
 MicroPython driver for the Hydreon RG-15 Industrial-Grade Optical Rain Gauge.
 
+Created by **Mario the Maker** for [Fairchild Tropical Botanic Garden](https://fairchildgarden.org/) as part of the **Growing Beyond Earth** partnership with NASA.
+
 ## Hardware
 
 - **Sensor:** Hydreon RG-15 (114992321)
@@ -189,4 +191,4 @@ WiFi can be enabled later for data transmission - the code is structured to supp
 
 ## License
 
-MIT
+GPL-3.0 - See [LICENSE](LICENSE) for details.
